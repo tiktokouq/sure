@@ -11,10 +11,14 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="https://dsc.gg/ouq" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+          Use code yip in the fortnite item shop! My socials -  
+https://tiktok.com/@ouq
+https://tiktok.com/@yip
+https://dsc.gg/ouq
+ouq#0001</code>
+        </p
       </main>
 
       <Footer />
